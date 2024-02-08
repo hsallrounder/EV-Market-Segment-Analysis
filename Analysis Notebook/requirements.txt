@@ -1,0 +1,10 @@
+numpy 
+pandas 
+scikit-learn
+matplotlib 
+seaborn 
+geopandas
+missingno
+openpyxl
+threadpoolctl
+nltk
